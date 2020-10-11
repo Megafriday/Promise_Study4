@@ -10,5 +10,5 @@
 |ファイル名|説明|実行方法
 |-|-|-|
 |index6.js|Qiitaのラーメンの記事|time node index6.js|
-|index7.js|Promise.prototype.then()の戻り値は、Promise&;any&gt;||
+|index7.js|Promise.prototype.then()の戻り値は、Promise&lt;any&gt;||
 |index8.js|awaitは、Promiseに付けて同期させる||
