@@ -7,7 +7,7 @@
 - https://github.com/Megafriday/Postkit
 
 # ファイルの説明
-|ファイル名|説明|実行方法
+|ファイル名|説明|実行方法|
 |-|-|-|
 |index6.js|Qiitaのラーメンの記事|time node index6.js|
 |index7.js|Promise.prototype.then()の戻り値は、Promise&lt;any&gt;||
